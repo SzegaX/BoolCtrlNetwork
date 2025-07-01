@@ -1,6 +1,6 @@
 # BoolCtrlNetwork
 Running Boolean Control Network simulations, mainly for cellular signal transduction networks.\
-Originally created for modeling macrophage polarization, find the article [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10045914/).
+Originally created for modeling macrophage polarization, published in [Szegvári et al., 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10045914/).
 
 + _ppiStep_ progresses the model by one step
 + _cycleDetBrent_ takes steps defined by ppiStep until an attractor is reached. It is an implementation of the cycle detection algorithm published by Richard P. Brent.
